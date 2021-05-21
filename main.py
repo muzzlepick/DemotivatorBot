@@ -1,7 +1,10 @@
 from aiogram import Bot, Dispatcher, executor, types
 import photo_editor
+from colorama import Fore, Style
 
 TOKEN = ''
+
+init()
 
 try:
     bot = Bot(token= TOKEN)
@@ -28,4 +31,4 @@ try:
         print('Бот успешно запущен')
         executor.start_polling(dp, skip_updates=True)
 except:
-    print('Вы забыли ввести токен\nЭто можно сделать в файле main.py')
+    print(Fore.RED + 'Вы забыли ввести токен\nЭто можно сделать в файле main.py' + Fore.RESET)
