@@ -16,6 +16,7 @@ cd DemotivatorBot
 pip install -r requirements.txt
 
 # откройте файл main.py и вставьте ваш токен в константу TOKEN
+TOKEN = ''
 
 # Запустите бота
 python main.py
