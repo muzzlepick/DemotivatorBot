@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
 import photo_editor
-from colorama import Fore, Style
+from colorama import init, Fore, Style
 
 TOKEN = ''
 
