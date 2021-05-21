@@ -14,5 +14,8 @@ cd DemotivatorBot
 
 # Установите нужные библиотеки
 pip install -r requirements.txt
+
+# Запустите бота
+python main.py
 ```
 ![Screenshot](https://github.com/welisk/telegram-bot-demotivator/blob/main/pic/paste/ok.jpg)
