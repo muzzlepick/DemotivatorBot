@@ -15,6 +15,8 @@ cd DemotivatorBot
 # Установите нужные библиотеки
 pip install -r requirements.txt
 
+# откройте файл main.py 
+
 # Запустите бота
 python main.py
 ```
