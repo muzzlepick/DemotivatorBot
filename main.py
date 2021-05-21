@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import photo_editor
 
-TOKEN = ''
+TOKEN = '1707165011:AAHHB-4FlY48-RpaVbjkovc2OsFKkuC-7vM'
 
 try:
     bot = Bot(token= TOKEN)
