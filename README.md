@@ -3,9 +3,9 @@
 
 ## Установка
 
-```bash
-# Скачайте [Play Store](https://play.google.com/store/apps/details?id=com.termux)
 
+Скачайте [Play Store](https://play.google.com/store/apps/details?id=com.termux)
+```bash
 # Скопируйте репозиторий
 git clone https://github.com/welisk/DemotivatorBot.git
 
