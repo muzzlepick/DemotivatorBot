@@ -1,22 +1,18 @@
 # Ржака Бот
 телеграм бот, создающий демотиваторы из пользовательских картинок
-## Instructions for Android
 
-Download Termux from the [Play Store](https://play.google.com/store/apps/details?id=com.termux)
-
-Open Termux and enter the following commands:
+## Установка
 
 ```bash
-# Install Dependencies:
-pkg install git python -y
+# Скачайте [Python](https://www.python.org/)
 
-# Clone this repo
-git clone https://github.com/AvinashReddy3108/YetAnotherSMSBomber.git
+# Скопируйте репозиторий
+git clone https://github.com/welisk/DemotivatorBot.git
 
-# Move into working directory.
-cd YetAnotherSMSBomber
+# Перейдите в папку проекта
+cd DemotivatorBot
 
-# Install the requirements.
-pip3 install -r requirements.txt
+# Установите нужные библиотеки
+pip install -r requirements.txt
 ```
 ![Screenshot](https://github.com/welisk/telegram-bot-demotivator/blob/main/pic/paste/ok.jpg)
