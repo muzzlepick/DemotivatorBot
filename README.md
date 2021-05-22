@@ -1,6 +1,8 @@
 # DemotivatorBot
 телеграм бот, создающий демотиваторы из пользовательских картинок
 
+[![](https://img.shields.io/badge/telegram-WELISK-red?style=for-the-badge&logo=telegram)](https://t.me/ktovmain)
+
 ## Установка
 
 
