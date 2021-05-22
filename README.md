@@ -1,8 +1,6 @@
 # DemotivatorBot
 телеграм бот, создающий демотиваторы из пользовательских картинок
 
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/welisk)
-
 ## Установка
 
 
