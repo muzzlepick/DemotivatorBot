@@ -1,20 +1,20 @@
 # DemotivatorBot
 телеграм бот, создающий демотиваторы из пользовательских картинок
-<p align="center">
-
-  <a href="https://github.com/welisk">
-
-    <img src="https://img.shields.io/github/followers/welisk?label=Follow&style=social">
-
-  </a>
 
 
 
 
 
 
+ 
 
-</p>
+
+
+
+
+
+
+
 
 
 ## Установка
