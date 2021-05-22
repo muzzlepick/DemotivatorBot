@@ -25,5 +25,4 @@ python main.py
 ```
 <p align="center">
   <img src="https://github.com/welisk/telegram-bot-demotivator/blob/main/pic/paste/ok.jpg"/>
-  
 </p>
