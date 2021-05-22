@@ -23,4 +23,6 @@ TOKEN = ''
 # Запустите бота
 python main.py
 ```
-![Screenshot](https://github.com/welisk/telegram-bot-demotivator/blob/main/pic/paste/ok.jpg)
+<p align="center">
+  ![Screenshot](https://github.com/welisk/telegram-bot-demotivator/blob/main/pic/paste/ok.jpg)
+</p>
