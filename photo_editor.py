@@ -2,7 +2,7 @@ from PIL import ImageFont
 from PIL import Image
 from PIL import ImageDraw
 
-'''LOGIC FOR DEMOTIVATOR'''
+
 def add_text(text):
     template = Image.open('pic/template.jpg')
     mem = Image.open('pic/mem.jpg').convert('RGBA')
